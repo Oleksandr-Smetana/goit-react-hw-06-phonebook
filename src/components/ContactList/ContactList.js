@@ -1,6 +1,6 @@
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
-import * as ContactsActions from '../../redux/contacts/contacts-actions';
+import ContactsActions from '../../redux/contacts/contacts-actions';
 
 import s from './ContactList.module.css';
 
